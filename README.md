@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Color Palette
+const primaryColor = const Color(0xff1a1a2e);
+const secundaryColor = const Color(0xff16213e);
+const terciaryColor = const Color(0xff0f3460);
+const cuaternaryColor = const Color(0xffe94560);
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
